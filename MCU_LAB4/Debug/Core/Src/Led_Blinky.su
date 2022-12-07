@@ -1,0 +1,4 @@
+Led_Blinky.c:11:6:Led_Red	8	static
+Led_Blinky.c:15:6:Led_Yellow	8	static
+Led_Blinky.c:19:6:Led_Blue	8	static
+Led_Blinky.c:23:6:Led_Green	8	static
